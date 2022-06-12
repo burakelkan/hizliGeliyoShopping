@@ -23,5 +23,6 @@ Kullandıklarım:
 - Sayfalarda dökümasyonlar oluşturdum neyi ne işe yaradığını yazdım.
 - Yapılan tasarımlar figmadan verilen boyutlara göre yaptım.
 - Uygulamanın içinde network katmanı oluşturdum(3rd kütüphane SwiftJson ve Alamofire de kullanabiliyorum fakat küçük uygulama olduğundan dolayı network katmanımı oluşturdum.)
+- 3rd Kütüphane oluşturarak resimleri gösterdim.
 
 İyi çalışmalar diliyorum. Hızlı geliyo
